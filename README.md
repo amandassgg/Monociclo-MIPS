@@ -20,3 +20,4 @@ Observação: Os dados disponibilizados nas memórias de instrução e de dados 
 Observação 2: Na pasta "imagens", há alguns registros gráficos do funcionamento do circuito. 
 
 Para executar a simulação, execute o script run_x.sh, que compila e simula o projeto.
+
